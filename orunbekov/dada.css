@@ -1,0 +1,90 @@
+body {
+    background-image: url(https://top-fon.com/uploads/posts/2023-02/1675354457_top-fon-com-p-fon-dlya-prezentatsii-odnotonnii-chernii-9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+
+    img {
+        width: 100%;
+    }
+
+    color: white;
+}
+
+.kitep {
+    color: rgb(255, 255, 255);
+
+
+}
+
+.koww {
+    color: rgb(255, 255, 255);
+}
+
+
+
+.win {
+    color: rgb(255, 255, 255);
+}
+
+.suibolina {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+
+.w33 {
+    color: white;
+}
+
+.h1 {
+    color: white;
+}
+
+.h2 {
+    color: white;
+}
+
+.h4 {
+    color: white;
+}
+
+.h5 {
+    color: white;
+}
+
+.j4 {
+    color: white;
+}
+
+.www {
+    color: white;
+}
+
+.p0 {
+    color: white;
+}
+
+.w {
+    color: white;
+}
+
+.school {
+    color: white;
+}
+
+.od {
+    color: white;
+}
+
+.oo {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
